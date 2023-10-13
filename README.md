@@ -17,13 +17,13 @@ git clone https://github.com/rajrohan10899/Task_Management_MERN.git
 ## View/Images:
 
 * Images of All_Todos:
-![All_Todos](./images/Screenshot%202023-10-14%20004233.png)
+![All_Todos](./Images/Screenshot%202023-10-14%20004233.png)
 
 * Images of Active_Todos:
-![Active_Todos](./images/Screenshot%202023-10-14%20004413.png)
+![Active_Todos](./Images/Screenshot%202023-10-14%20004413.png)
 
 * Images of Done_Todos:
-![Done_Todos](./images/Screenshot%202023-10-14%20004428.png)
+![Done_Todos](./Images/Screenshot%202023-10-14%20004428.png)
 
 # Connect @
 * LinkedIn: https://www.linkedin.com/in/rohan-raj-9791b1200/
